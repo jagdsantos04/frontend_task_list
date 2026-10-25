@@ -1,4 +1,3 @@
-### frontend_task_list
 # Task List & Monthly Calendar
 
 A simple and intuitive frontend application designed to help users organize their daily tasks, manage their schedules, and keep track of their monthly activities.
